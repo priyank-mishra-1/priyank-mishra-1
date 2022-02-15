@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyankMishra4
-- 👀 I’m interested in Coding and Cloud Computing
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Coding and Cloud Computing.
+- 🌱 I’m currently learning C/C++ and DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: instagram@priyank_mishra_4
 
